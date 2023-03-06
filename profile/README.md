@@ -5,12 +5,12 @@ This is the official repo of the COMPUTE research school at Lund University cont
 ## Courses
 AI in Medicine and Life Sciences – AI for image and video data
 
-[Course material (from fall 2021](https://github.com/COMPUTE-LU/AI4MedLife_imaging_2021)
+[Course material (from fall 2021](https://github.com/COMPUTE-LU/AI4MedLife_imaging_2021)<br/><br/>
 
 
 Reproducible and Interactive Data Analysis and Modelling using Jupyter Notebooks
 
-[Course material](https://github.com/COMPUTE-LU/jupyter-course)
+[Course material](https://github.com/COMPUTE-LU/jupyter-course)<br/><br/>
 
 
 Solving PDEs with DUNE-FEM
