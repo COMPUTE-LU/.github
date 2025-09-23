@@ -9,7 +9,7 @@ AI in Medicine and Life Sciences - Introduction
 
 [Course material (from fall 2025)](https://github.com/COMPUTE-LU/AI4MedLife_intro_2025)
 
-/n
+
 
 AI in Medicine and Life Sciences – AI for image and video data
 
