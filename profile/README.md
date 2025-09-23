@@ -4,7 +4,9 @@ This is the official repo of the COMPUTE research school at Lund University cont
 
 ## Courses
 AI in Medicine and Life Sciences - Introduction 
+
 [Course material (from fall 2023)](https://github.com/COMPUTE-LU/AI4MedLife_intro_2023)
+[Course material (from fall 2025)](https://github.com/COMPUTE-LU/AI4MedLife_intro_2025)
 
 AI in Medicine and Life Sciences – AI for image and video data
 
