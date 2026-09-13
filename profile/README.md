@@ -15,6 +15,9 @@ AI in Medicine and Life Sciences – AI for image and video data
 
 [Course material (from fall 2021)](https://github.com/COMPUTE-LU/AI4MedLife_imaging_2021)<br/><br/>
 
+AI in Medicine and Life Sciences - AI for text and language data
+
+[Course material (from fall 2026)](https://github.com/COMPUTE-LU/AI4MedLife_LMs-Agents_2026)<br/><br/>
 
 Reproducible and Interactive Data Analysis and Modelling using Jupyter Notebooks
 
